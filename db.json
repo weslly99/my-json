@@ -4,7 +4,7 @@
       "nome": "José Adailton",
       "rg": "14578278945787",
       "cpf": "45245727722",
-      "data_nascimento": "10/10/1995",
+      "data_nascimento": "1995-10-10",
       "tipo": "vip",
       "id_venda": "4537"
     },
@@ -12,7 +12,7 @@
       "nome": "Maria de Oliveira",
       "rg": "1457827894437",
       "cpf": "4524545556",
-      "data_nascimento": "11/05/1993",
+      "data_nascimento": "1993-05-11",
       "tipo": "pista",
       "id_venda": "2537"
     },
@@ -20,7 +20,7 @@
       "nome": "Joaquina Arrais",
       "rg": "14578266945787",
       "cpf": "45245727432",
-      "data_nascimento": "10/05/1975",
+      "data_nascimento": "1975-05-10",
       "tipo": "pista",
       "id_venda": "4337"
     },
@@ -28,7 +28,7 @@
       "nome": "José Arauna",
       "rg": "14578244445787",
       "cpf": "45645727722",
-      "data_nascimento": "15/01/1985",
+      "data_nascimento": "1985-01-05",
       "tipo": "pista",
       "id_venda": "6535"
     },
@@ -36,7 +36,7 @@
       "nome": "Ajenô da Conceição",
       "rg": "14578278555555",
       "cpf": "42245557724",
-      "data_nascimento": "10/10/1997",
+      "data_nascimento": "1995-10-08",
       "tipo": "pista",
       "id_venda": "4454"
     },
@@ -44,7 +44,7 @@
       "nome": "Suelen Fernandes de Oliveira",
       "rg": "14575435655787",
       "cpf": "45247828822",
-      "data_nascimento": "03/02/1999",
+      "data_nascimento": "1999-02-17",
       "tipo": "camarote",
       "id_venda": "8537"
     },
@@ -52,7 +52,7 @@
       "nome": "José Adailton",
       "rg": "1457823456787",
       "cpf": "45247690802",
-      "data_nascimento": "10/10/1999",
+      "data_nascimento": "1999-11-28",
       "tipo": "vip",
       "id_venda": "6537"
     },
@@ -60,7 +60,7 @@
       "nome": "Lorival Junior da Silva Bezerra",
       "rg": "19578278945327",
       "cpf": "75245727322",
-      "data_nascimento": "10/10/1995",
+      "data_nascimento": "1994-06-05",
       "tipo": "camarote",
       "id_venda": "2687"
     },
@@ -68,7 +68,7 @@
       "nome": "Josicleide maria",
       "rg": "14578346897",
       "cpf": "45245720088",
-      "data_nascimento": "10/10/1999",
+      "data_nascimento": "1997-11-09",
       "tipo": "pista",
       "id_venda": "4537"
     },
@@ -76,7 +76,7 @@
       "nome": "Jandira Maria",
       "rg": "87899999897",
       "cpf": "46245730088",
-      "data_nascimento": "01/01/1999",
+      "data_nascimento": "1993-01-29",
       "tipo": "vip",
       "id_venda": "3437"
     }
