@@ -1,0 +1,81 @@
+{
+  "travels": [
+    {
+      "id": 1,
+      "date": "2019-10-06",
+      "name": "Bali 5-day tour",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere enim in massa efficitur, in accumsan urna cursus. Maecenas sit amet mollis neque, a ultricies dolor. Suspendisse est risus, bibendum ac viverra in, ultrices id lectus.",
+      "comments": 35,
+      "favorites": 63,
+      "start": 24,
+      "imgs": [
+        {
+          "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-20"
+        },
+        {
+          "url": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-23"
+        },
+        {
+          "url": "https://images.pexels.com/photos/449627/pexels-photo-449627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-25"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-26"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2019-02-04",
+      "name": "Lorem Ipsum 5-day tour",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere enim in massa efficitur, in accumsan urna cursus. Maecenas sit amet mollis neque, a ultricies dolor. Suspendisse est risus, bibendum ac viverra in, ultrices id lectus.",
+      "comments": 25,
+      "favorites": 33,
+      "start": 23,
+      "imgs": [
+        {
+          "url": "https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-02-04"
+        },
+        {
+          "url": "https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-02-05"
+        },
+        {
+          "url": "https://images.pexels.com/photos/279544/pexels-photo-279544.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-02-06"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2018-12-07",
+      "name": "Bali 7-day tour",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere enim in massa efficitur, in accumsan urna cursus. Maecenas sit amet mollis neque, a ultricies dolor. Suspendisse est risus, bibendum ac viverra in, ultrices id lectus.",
+      "comments": 35,
+      "favorites": 63,
+      "start": 24,
+      "imgs": [
+        {
+          "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-20"
+        },
+        {
+          "url": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-23"
+        },
+        {
+          "url": "https://images.pexels.com/photos/449627/pexels-photo-449627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-25"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-26"
+        }
+      ]
+    }
+  ]
+}
