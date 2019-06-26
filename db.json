@@ -1,84 +1,81 @@
 {
-  "ingressos": [
+  "travels": [
     {
-      "nome": "José Adailton",
-      "rg": "14578278945787",
-      "cpf": "45245727722",
-      "data_nascimento": "1995-10-10",
-      "tipo": "vip",
-      "id_venda": "4537"
+      "id": 1,
+      "date": "2019-10-06",
+      "name": "Bali 5-day tour",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere enim in massa efficitur, in accumsan urna cursus. Maecenas sit amet mollis neque, a ultricies dolor. Suspendisse est risus, bibendum ac viverra in, ultrices id lectus.",
+      "comments": 35,
+      "favorites": 63,
+      "start": 24,
+      "imgs": [
+        {
+          "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-20"
+        },
+        {
+          "url": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-23"
+        },
+        {
+          "url": "https://images.pexels.com/photos/449627/pexels-photo-449627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-25"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-26"
+        }
+      ]
     },
     {
-      "nome": "Maria de Oliveira",
-      "rg": "1457827894437",
-      "cpf": "4524545556",
-      "data_nascimento": "1993-05-11",
-      "tipo": "pista",
-      "id_venda": "2537"
+      "id": 2,
+      "date": "2019-02-04",
+      "name": "Lorem Ipsum 5-day tour",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere enim in massa efficitur, in accumsan urna cursus. Maecenas sit amet mollis neque, a ultricies dolor. Suspendisse est risus, bibendum ac viverra in, ultrices id lectus.",
+      "comments": 25,
+      "favorites": 33,
+      "start": 23,
+      "imgs": [
+        {
+          "url": "https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-02-04"
+        },
+        {
+          "url": "https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-02-05"
+        },
+        {
+          "url": "https://images.pexels.com/photos/279544/pexels-photo-279544.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-02-06"
+        }
+      ]
     },
     {
-      "nome": "Joaquina Arrais",
-      "rg": "14578266945787",
-      "cpf": "45245727432",
-      "data_nascimento": "1975-05-10",
-      "tipo": "pista",
-      "id_venda": "4337"
-    },
-    {
-      "nome": "José Arauna",
-      "rg": "14578244445787",
-      "cpf": "45645727722",
-      "data_nascimento": "1985-01-05",
-      "tipo": "pista",
-      "id_venda": "6535"
-    },
-    {
-      "nome": "Ajenô da Conceição",
-      "rg": "14578278555555",
-      "cpf": "42245557724",
-      "data_nascimento": "1995-10-08",
-      "tipo": "pista",
-      "id_venda": "4454"
-    },
-    {
-      "nome": "Suelen Fernandes de Oliveira",
-      "rg": "14575435655787",
-      "cpf": "45247828822",
-      "data_nascimento": "1999-02-17",
-      "tipo": "camarote",
-      "id_venda": "8537"
-    },
-    {
-      "nome": "José Adailton",
-      "rg": "1457823456787",
-      "cpf": "45247690802",
-      "data_nascimento": "1999-11-28",
-      "tipo": "vip",
-      "id_venda": "6537"
-    },
-    {
-      "nome": "Lorival Junior da Silva Bezerra",
-      "rg": "19578278945327",
-      "cpf": "75245727322",
-      "data_nascimento": "1994-06-05",
-      "tipo": "camarote",
-      "id_venda": "2687"
-    },
-    {
-      "nome": "Josicleide maria",
-      "rg": "14578346897",
-      "cpf": "45245720088",
-      "data_nascimento": "1997-11-09",
-      "tipo": "pista",
-      "id_venda": "4537"
-    },
-    {
-      "nome": "Jandira Maria",
-      "rg": "87899999897",
-      "cpf": "46245730088",
-      "data_nascimento": "1993-01-29",
-      "tipo": "vip",
-      "id_venda": "3437"
+      "id": 3,
+      "date": "2018-12-07",
+      "name": "Bali 7-day tour",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere enim in massa efficitur, in accumsan urna cursus. Maecenas sit amet mollis neque, a ultricies dolor. Suspendisse est risus, bibendum ac viverra in, ultrices id lectus.",
+      "comments": 35,
+      "favorites": 63,
+      "start": 24,
+      "imgs": [
+        {
+          "url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-20"
+        },
+        {
+          "url": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-23"
+        },
+        {
+          "url": "https://images.pexels.com/photos/449627/pexels-photo-449627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "date": "2019-03-25"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=1200",
+          "date": "2019-03-26"
+        }
+      ]
     }
   ]
 }
